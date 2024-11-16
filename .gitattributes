@@ -1,0 +1,7 @@
+# Set all text files to use LF endings
+* text=auto
+
+# Prevent line-ending conversion for binary files
+*.png binary
+*.jpg binary
+*.jar binary
